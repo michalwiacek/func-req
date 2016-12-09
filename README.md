@@ -1,6 +1,6 @@
 # WORKSHOPS APP
 
-![alt text](https://github.com/thepowerofra2000/func-req/Untitled.gif "app gif")
+![alt text](https://github.com/thepowerofra2000/func-req/blob/master/Untitled.gif "app gif")
 
 
 ## Requirements
